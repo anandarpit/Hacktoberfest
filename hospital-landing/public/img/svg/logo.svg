@@ -1,3 +1,1 @@
-<svg viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
-  <text y="30" font-family="Motiva Sans Bold, sans-serif" fill="#18216d" font-size="43px" font-weight="700">Medico</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60"><text y="30" fill="#18216d" font-family="Motiva Sans Bold, sans-serif" font-size="43" font-weight="700">Medico</text></svg>
